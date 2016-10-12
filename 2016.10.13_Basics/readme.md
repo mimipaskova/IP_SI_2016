@@ -1,9 +1,9 @@
-* Бройни системи - [https://en.wikipedia.org/wiki/Numeral_system](https://en.wikipedia.org/wiki/Numeral_system)
+* Р‘СЂРѕР№РЅРё СЃРёСЃС‚РµРјРё - [https://en.wikipedia.org/wiki/Numeral_system](https://en.wikipedia.org/wiki/Numeral_system)
 
-* Побитови операции - [https://en.wikipedia.org/wiki/Bitwise_operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+* РџРѕР±РёС‚РѕРІРё РѕРїРµСЂР°С†РёРё - [https://en.wikipedia.org/wiki/Bitwise_operation](https://en.wikipedia.org/wiki/Bitwise_operation)
 
-* Компилатор и интерпретатор - [http://www.c4learn.com/c-programming/compiler-vs-interpreter/](http://www.c4learn.com/c-programming/compiler-vs-interpreter/)
+* РљРѕРјРїРёР»Р°С‚РѕСЂ Рё РёРЅС‚РµСЂРїСЂРµС‚Р°С‚РѕСЂ - [http://www.c4learn.com/c-programming/compiler-vs-interpreter/](http://www.c4learn.com/c-programming/compiler-vs-interpreter/)
 
-* Типове данни
+* РўРёРїРѕРІРµ РґР°РЅРЅРё
 
-* Задачи
+* Р—Р°РґР°С‡Рё
