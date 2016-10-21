@@ -5,5 +5,4 @@
 
 Стоян Генчев - [link](https://github.com/stoyo)
 
-
-Борис-https://github.com/SleeperShadow/FMI.git
+ДимоАпостолов - https://github.com/dimaka97/fmihomework.git
